@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ccc;
+  width: 100%;
+  padding: 10px;
+}
+
+.badge {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #ccfbf1;
+  color: #14b8a6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}

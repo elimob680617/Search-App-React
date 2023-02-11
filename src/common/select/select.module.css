@@ -1,0 +1,12 @@
+.select {
+  width: 200px;
+}
+.selectWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.selectWrapper span {
+  display: block;
+  margin-right: 1rem;
+}
